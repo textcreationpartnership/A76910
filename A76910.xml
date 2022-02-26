@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A bloody plot discovered against the Independents: wherein is laid open, the manner of this horrid conspiracie, and how it should have been executed. With the place and hour when this fatall blow should have been given. Whereunto is annexed: sixe propositions presented to his Excellency Sir Thomas Fairfax; concerning certain arguments hald and maintained by the Independents.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76910</idno>
+            <idno type="STC">Wing B3288</idno>
+            <idno type="STC">Thomason E371_18</idno>
+            <idno type="STC">ESTC R201309</idno>
+            <idno type="EEBO-CITATION">99861833</idno>
+            <idno type="PROQUEST">99861833</idno>
+            <idno type="VID">113978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76910)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113978)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E371[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A bloody plot discovered against the Independents: wherein is laid open, the manner of this horrid conspiracie, and how it should have been executed. With the place and hour when this fatall blow should have been given. Whereunto is annexed: sixe propositions presented to his Excellency Sir Thomas Fairfax; concerning certain arguments hald and maintained by the Independents.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.E.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>January 21, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Separatists --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113978:1" rendition="simple:additions"/>
+            <p>A BLOODY PLOT Diſcovered againſt the INDEPENDENTS: <hi>WHEREIN</hi> Is laid open, the manner of this horrid Con<g ref="char:EOLhyphen"/>ſpiracie, and how it ſhould have been executed. With the place and hour when this fatall Blow ſhould have been given.</p>
+            <p>
+               <hi>Whereunto is annexed:</hi> Sixe Propoſitions preſented to his Excellen<g ref="char:EOLhyphen"/>cie Sir <hi>Thomas Fairfax;</hi> concerning certain Arguments held and maintained by the Independents.</p>
+            <p>LONDON: Printed for <hi>G. E. January</hi> 21, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:113978:2"/>
+            <pb facs="tcp:113978:2"/>
+            <head>NEVVES <hi>FROM THE</hi> ARMY.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the Army it is certified, that his Excellency Sir Thomas Fairfax doth uſe his utmoſt endeavour for the appeaſing of any Tumults or Mutinies that are (divers times) at their full height and growth, by reaſon of ſome contrary Opinions: And is alſo very deſirous that all differences whatſo<g ref="char:EOLhyphen"/>ever may be compoſed, which are too much ſpringing up in the hearrs of divers Officers and Souldiers in the Army.</p>
+            <p>Nay further, divers malignant Spirits in the Coun<g ref="char:EOLhyphen"/>tries are too buſie in ſowing of Diſcord in this unpa<g ref="char:EOLhyphen"/>ralleld
+<pb facs="tcp:113978:3"/>Army, by covering their gallant acti<g ref="char:EOLhyphen"/>ons with calumnious aſperſions.</p>
+            <p>Therefore to be briefe, and to inſtance ſome of theſe unto you, I ſhall in the firſt place in<g ref="char:EOLhyphen"/>timate unto you, a thing worthy of recitall, and fit for publike view, <hi>viz.</hi>
+            </p>
+            <p>Upon the laſt Faſt day, divers honeſt and wel affected perſons had appointed a mee<g ref="char:EOLhyphen"/>ting within a mile of Northampton, reſol<g ref="char:EOLhyphen"/>ving, to expreſſe and declare the Scriptures each to other, which accordingly they did: but (with ſome difficulties) they plunged through certain diſtempered waters: For, when they were at this holy Exerciſe, and laying open the Word, comparing chapter with chapter, and text with text, divers of the townſmen ſeemed ſomewhat offended, deſi<g ref="char:EOLhyphen"/>ring their Miniſter to ſend for the chiefe In<g ref="char:EOLhyphen"/>ſtrument of this private Aſſembly, and to have ſome conference and diſputation with him, concerning their opinions, &amp; the arguments they held, which was accordingly done; and immediatly one Mr. <hi>Gregory</hi> made his appe<g ref="char:EOLhyphen"/>rance at the Miniſters houſe, where it ſeemes ſome expreſſions were uttered, that gave him offence; thereupon he declared himſelf to
+<pb facs="tcp:113978:3"/>the Generall, his Excellency (after ſome con<g ref="char:EOLhyphen"/>ſultation thereupon) referred the buſineſſe to a Councel of War (ſo ready was his Ex<g ref="char:EOLhyphen"/>cellency to redreſſe all grievances of this na<g ref="char:EOLhyphen"/>ture) the Parſon preſents his Articles to that Councel, viz.</p>
+            <list>
+               <item>I. <hi>THat the ſaid Mr.</hi> Gregory <hi>had ſaid, that the Parſon was a Miniſter of Antichriſt, and not of Chriſt.</hi>
+               </item>
+               <item>II. <hi>That he thought he was bound to unfold the mind of Scripture, as it was revealed to him.</hi>
+               </item>
+               <item>III <hi>That he had preached not long before in two tubs in Oxfordſhire.</hi>
+               </item>
+               <item>IV. <hi>That he would preach in the ſteeple houſe-yard.</hi>
+               </item>
+               <item>V. <hi>That he hoped to ſee free trading on the Sab<g ref="char:EOLhyphen"/>bath day.</hi>
+               </item>
+               <pb facs="tcp:113978:4"/>
+               <item>VI. <hi>That he ſaid, that the Pſalmes were no Scri<g ref="char:EOLhyphen"/>pture.</hi>
+               </item>
+            </list>
+            <p>The Councel of Warre had a long debate about theſe Articles, and upon examination of them it was reſolved, that none of them were againſt the Lawes and articles of War except only the firſt article, which (that they might no wayes ſeem to connive at any of<g ref="char:EOLhyphen"/>fence) they brought under that attickle of reproachfull ſpeeches, and ordered Mr. Gre<g ref="char:EOLhyphen"/>gory to make an acknowledgement to the Parſon. And for further ſatisfaction, examined the particulars of the other articles (of which few could be proved) yet he made a ſatisfa<g ref="char:EOLhyphen"/>ctory Declaration, concerning what he pub<g ref="char:EOLhyphen"/>liſhed in them, and what not, and that he did not deny the Pſalmes to be Scripture, &amp;c. (as was ſuggeſted) ſo that this judicious Coun<g ref="char:EOLhyphen"/>cell diſcharged him upon this acknowledg<g ref="char:EOLhyphen"/>ment, and committed him to priſon for one night, leaving the Parſon to accuſe him elſ<g ref="char:EOLhyphen"/>where, if he thought fit.</p>
+            <p>Another paſſage I ſhall think meet to in<g ref="char:EOLhyphen"/>timate unto you, which hapned very lately in Buckinghamſhire, where one Mr. Ives a
+<pb facs="tcp:113978:4"/>trooper, preached at the requeſt of ſome of his friends, and was by divers very well ap<g ref="char:EOLhyphen"/>proved of. But the inveterate malice of the Malignant party were grown to ſuch an a<g ref="char:EOLhyphen"/>ſpiring height, that moſt wickedly and bar<g ref="char:EOLhyphen"/>barouſly a great number of them had com<g ref="char:EOLhyphen"/>plotted together, to cut of thoſe precious Saints, who had aſſembled together, in the Name of the Lord Jeſus, for the ſearching &amp; laying open his ſacred Word, that ſo they might be the better able to diſcover thoſe ſweet &amp; ſoul-ſaving Notions expreſſed ther<g ref="char:EOLhyphen"/>in, and to know the Will of their Redeemer. The complotters came to the place where the Independents were, giving out many re<g ref="char:EOLhyphen"/>viling words, and threatning language, ſay<g ref="char:EOLhyphen"/>ing that they ſhould all ſuffer very ſudden<g ref="char:EOLhyphen"/>ly. Whereupon, ſome of the Parliaments for<g ref="char:EOLhyphen"/>ces being near, and hearing of it, came imme<g ref="char:EOLhyphen"/>diatly to reſcue them, and to apprehend the Conſpirators, but being over-powred, they received the worſt, divers of them being dan<g ref="char:EOLhyphen"/>gerouſly wounded. For the Malignant party had got a word, <hi>(for the King)</hi> that ſo they might know all thoſe that would ſide with them againſt the Roundheads. And being
+<pb facs="tcp:113978:5"/>ſomewhat powerfull, and too ſtrong for the Parliaments Party, they got the day, making their eſcape, and wounded a Captain, and di<g ref="char:EOLhyphen"/>vers others. There is great care taken, though out the Parliaments quarters, for the appre<g ref="char:EOLhyphen"/>hending of theſe Complotters. Some of them are men of eminency; but its hoped a ſhort time will produce their appearance.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:113978:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
